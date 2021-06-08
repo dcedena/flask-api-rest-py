@@ -1,4 +1,4 @@
-from flask import Flask#, request, jsonify
+from flask import Flask
 from flask_restful import Api
 from models.Employees import Employees
 from models.EmployeeData import EmployeeData
